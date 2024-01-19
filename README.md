@@ -1,3 +1,3 @@
 #AnimeHub
 
-This is a website on my favourite animes of all time.
+This is a website of my favourite animes of all time.
